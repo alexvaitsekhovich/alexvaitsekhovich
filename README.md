@@ -9,11 +9,21 @@ Delayed messaging using dead letter exhange principle and a chain of exchanges w
 <br>
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/java.png" width="20" height="20" alt="Java">
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/rabbit.png" width="20" height="20" alt="RabbitMQ">
+<br>
+<br>
+
+
+[Ordering microservice](https://github.com/alexvaitsekhovich/ordering-ms-starter):
+Cloud ready microservice with ordering API, configuration service, gateway, failover service and Eureka service discovery.
+<br>
+<img src="https://github.com/alexvaitsekhovich/images/blob/main/java.png" width="20" height="20" alt="Java">
+<img src="https://github.com/alexvaitsekhovich/images/blob/main/spring.png" width="88" height="22" alt="RabbitMQ">
+<br>
+<br>
 
 
 [Polyglot](https://github.com/alexvaitsekhovich/polyglot):
 22 programming languages in a single docker image and example code for all languages to test the calculation speed. Not really useful, but it was fun to create it.
-
 
 
 
