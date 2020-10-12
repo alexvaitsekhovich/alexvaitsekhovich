@@ -17,7 +17,7 @@ Delayed messaging using dead letter exhange principle and a chain of exchanges w
 Cloud ready microservice with ordering API, configuration service, gateway, failover service and Eureka service discovery.
 <br>
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/java.png" width="20" height="20" alt="Java">
-<img src="https://github.com/alexvaitsekhovich/images/blob/main/spring.png" width="88" height="22" alt="RabbitMQ">
+<img src="https://github.com/alexvaitsekhovich/images/blob/main/spring.png" width="80" height="20" alt="RabbitMQ">
 <br>
 <br>
 
