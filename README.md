@@ -21,6 +21,14 @@ Cloud ready microservice with ordering API, configuration service, gateway, fail
 <br>
 <br>
 
+[Comparator for refactoring testing](https://github.com/alexvaitsekhovich/refactoring_comparator):
+Application for testing the database results of legacy and refactored code, to make sure that the refactored script does not break the application output. 
+<br>
+<img src="https://github.com/alexvaitsekhovich/images/blob/main/php.png" width="37" height="20" alt="Java">
+<br>
+<br>
+
+
 
 [Polyglot](https://github.com/alexvaitsekhovich/polyglot):
 22 programming languages in a single docker image and example code for all languages to test the calculation speed. Not really useful, but it was fun to create it.
