@@ -21,7 +21,7 @@ Cloud ready microservice with ordering API, configuration service, gateway, fail
 <br>
 <br>
 
-[Comparator for refactoring testing](https://github.com/alexvaitsekhovich/refactoring_comparator):
+[Comparator for refactoring results](https://github.com/alexvaitsekhovich/refactoring_comparator):
 Application for testing the database results of legacy and refactored code, to make sure that the refactored script does not break the application output. 
 <br>
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/php.png" width="37" height="20" alt="Java">
