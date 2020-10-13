@@ -23,6 +23,9 @@ Cloud ready microservice with ordering API, configuration service, gateway, fail
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/java.png" width="20" height="20" alt="Java">
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/spring.png" width="80" height="20" alt="RabbitMQ">
 <br>
+[![pipeline status](https://gitlab.com/alex.vaitsekhovich/order-api/badges/master/pipeline.svg)](https://gitlab.com/alex.vaitsekhovich/order-api//pipelines)
+[![codecov](https://codecov.io/gh/alexvaitsekhovich/order-api/branch/master/graph/badge.svg)](https://codecov.io/gh/alexvaitsekhovich/order-api)
+<br>
 <br>
 
 [Comparator for refactoring results](https://github.com/alexvaitsekhovich/refactoring_comparator):
