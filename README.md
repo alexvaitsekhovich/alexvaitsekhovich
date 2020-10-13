@@ -38,4 +38,9 @@ Application for testing the database results of legacy and refactored code, to m
 
 
 
+
+
+
+<br>
+<br>
 ![](https://visitor-badge.glitch.me/badge?page_id=alexvaitsekhovich.alexvaitsekhovich)
