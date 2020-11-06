@@ -15,6 +15,9 @@ Delayed messaging using dead letter exhange principle and a chain of exchanges w
 
 <br>
 <a href="https://github.com/alexvaitsekhovich/rabbitmq-delayed-messaging"><img src="https://github.com/alexvaitsekhovich/images/blob/main/mq-delay.png" width="350" height="273" alt="MQ-delay"></a>
+
+<br><br>
+<hr>
 <br>
 
 
@@ -26,7 +29,9 @@ Ordering API, corresponding microservice system is in progress
 <br>
 [![pipeline status](https://gitlab.com/alex.vaitsekhovich/order-api/badges/master/pipeline.svg)](https://gitlab.com/alex.vaitsekhovich/order-api//pipelines)
 [![codecov](https://codecov.io/gh/alexvaitsekhovich/order-api/branch/master/graph/badge.svg)](https://codecov.io/gh/alexvaitsekhovich/order-api)
-<br>
+
+<br><br>
+<hr>
 <br>
 
 [Comparator for refactoring](https://github.com/alexvaitsekhovich/refactoring_comparator):
@@ -38,9 +43,11 @@ Application for testing the database results of legacy and refactored code, to m
 [![codecov](https://codecov.io/gh/alexvaitsekhovich/refactoring_comparator/branch/main/graph/badge.svg)](https://codecov.io/gh/alexvaitsekhovich/refactoring_comparator)
 <br>
 <a href="https://github.com/alexvaitsekhovich/refactoring_comparator"><img src="https://github.com/alexvaitsekhovich/images/blob/main/rcomparator.png" width="350" height="197" alt="Refactoring comparator"></a>
+
+
+<br><br>
+<hr>
 <br>
-
-
 
 
 
