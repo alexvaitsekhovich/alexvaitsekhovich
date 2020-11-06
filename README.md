@@ -37,7 +37,7 @@ Ordering API, corresponding microservice system is in progress
 <br>
 
 [Comparator for refactoring](https://github.com/alexvaitsekhovich/refactoring_comparator):
-Application for testing the database results of legacy and refactored code, to make sure that the refactored script does not break the application output. 
+Application for testing the database results of legacy and refactored code, to ensure the stability of application output with refactored script. 
 <br>
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/php.png" width="37" height="20" alt="Php">
 <br><br>
