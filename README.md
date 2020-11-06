@@ -17,8 +17,8 @@ Delayed messaging using dead letter exhange principle and a chain of exchanges w
 <br>
 
 
-[Ordering microservice](https://github.com/alexvaitsekhovich/ordering-ms-starter):
-Cloud ready microservice with ordering API, configuration service, gateway, failover service and Eureka service discovery.
+[Ordering API](https://github.com/alexvaitsekhovich/order-api):
+Ordering API, corresponding microservice system is in progress
 <br>
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/java.png" width="20" height="20" alt="Java">
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/spring.png" width="80" height="20" alt="RabbitMQ">
@@ -28,7 +28,7 @@ Cloud ready microservice with ordering API, configuration service, gateway, fail
 <br>
 <br>
 
-[Comparator for refactoring results](https://github.com/alexvaitsekhovich/refactoring_comparator):
+[Comparator for refactoring](https://github.com/alexvaitsekhovich/refactoring_comparator):
 Application for testing the database results of legacy and refactored code, to make sure that the refactored script does not break the application output. 
 <br>
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/php.png" width="37" height="20" alt="Php">
