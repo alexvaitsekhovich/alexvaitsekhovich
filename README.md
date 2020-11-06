@@ -5,9 +5,6 @@ Hello and welcome!
 Some of my projects:
 
 <br>
-<hr>
-<br>
-
 
 [Delayed messaging with RabbitMQ](https://github.com/alexvaitsekhovich/rabbitmq-delayed-messaging):
 Delayed messaging using dead letter exhange principle and a chain of exchanges with topics, built on binary number representation. 
