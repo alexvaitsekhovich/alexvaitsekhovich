@@ -11,7 +11,7 @@ Delayed messaging using dead letter exhange principle and a chain of exchanges w
 <br>
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/java.png" width="20" height="20" alt="Java">
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/rabbit.png" width="20" height="20" alt="RabbitMQ">
-<br>
+<br><br>
 [![pipeline status](https://gitlab.com/alex.vaitsekhovich/rabbitmq-delayed-messaging/badges/master/pipeline.svg)](https://gitlab.com/alex.vaitsekhovich/rabbitmq-delayed-messaging/pipelines) 
 [![codecov](https://codecov.io/gh/alexvaitsekhovich/rabbitmq-delayed-messaging/branch/master/graph/badge.svg)](https://codecov.io/gh/alexvaitsekhovich/rabbitmq-delayed-messaging)
 
@@ -28,7 +28,7 @@ Ordering API, corresponding microservice system is in progress
 <br>
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/java.png" width="20" height="20" alt="Java">
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/spring.png" width="80" height="20" alt="RabbitMQ">
-<br>
+<br><br>
 [![pipeline status](https://gitlab.com/alex.vaitsekhovich/order-api/badges/master/pipeline.svg)](https://gitlab.com/alex.vaitsekhovich/order-api//pipelines)
 [![codecov](https://codecov.io/gh/alexvaitsekhovich/order-api/branch/master/graph/badge.svg)](https://codecov.io/gh/alexvaitsekhovich/order-api)
 
@@ -40,7 +40,7 @@ Ordering API, corresponding microservice system is in progress
 Application for testing the database results of legacy and refactored code, to make sure that the refactored script does not break the application output. 
 <br>
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/php.png" width="37" height="20" alt="Php">
-<br>
+<br><br>
 [![pipeline status](https://gitlab.com/alex.vaitsekhovich/refactoring_comparator/badges/main/pipeline.svg)](https://gitlab.com/alex.vaitsekhovich/refactoring_comparator/pipelines) 
 [![codecov](https://codecov.io/gh/alexvaitsekhovich/refactoring_comparator/branch/main/graph/badge.svg)](https://codecov.io/gh/alexvaitsekhovich/refactoring_comparator)
 <br>
