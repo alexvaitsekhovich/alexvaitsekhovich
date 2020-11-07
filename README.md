@@ -18,10 +18,7 @@ Delayed messaging using dead letter exhange principle and a chain of exchanges w
 <br>
 <a href="https://github.com/alexvaitsekhovich/rabbitmq-delayed-messaging"><img src="https://github.com/alexvaitsekhovich/images/blob/main/mqdelay.png" width="350" height="273" alt="MQ-delay"></a>
 
-<br><br>
-<hr>
-<br>
-
+<br><hr><br>
 
 [Ordering API](https://github.com/alexvaitsekhovich/order-api):
 Ordering API, corresponding microservice system is in progress
@@ -32,9 +29,7 @@ Ordering API, corresponding microservice system is in progress
 [![pipeline status](https://gitlab.com/alex.vaitsekhovich/order-api/badges/master/pipeline.svg)](https://gitlab.com/alex.vaitsekhovich/order-api//pipelines)
 [![codecov](https://codecov.io/gh/alexvaitsekhovich/order-api/branch/master/graph/badge.svg)](https://codecov.io/gh/alexvaitsekhovich/order-api)
 
-<br><br>
-<hr>
-<br>
+<br><hr><br>
 
 [Comparator for refactoring](https://github.com/alexvaitsekhovich/refactoring_comparator):
 Application for testing the database results of legacy and refactored code, to ensure the stability of application output with refactored script. 
@@ -46,12 +41,7 @@ Application for testing the database results of legacy and refactored code, to e
 <br>
 <a href="https://github.com/alexvaitsekhovich/refactoring_comparator"><img src="https://github.com/alexvaitsekhovich/images/blob/main/rcomparator.png" width="350" height="197" alt="Refactoring comparator"></a>
 
-
-<br><br>
-<hr>
-<br>
-
-
+<br><hr><br>
 
 [Polyglot](https://github.com/alexvaitsekhovich/polyglot):
 22 programming languages in a single docker image and example code for all languages to test the calculation speed.
