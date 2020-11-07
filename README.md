@@ -16,7 +16,7 @@ Delayed messaging using dead letter exhange principle and a chain of exchanges w
 [![codecov](https://codecov.io/gh/alexvaitsekhovich/rabbitmq-delayed-messaging/branch/master/graph/badge.svg)](https://codecov.io/gh/alexvaitsekhovich/rabbitmq-delayed-messaging)
 
 <br>
-<a href="https://github.com/alexvaitsekhovich/rabbitmq-delayed-messaging"><img src="https://github.com/alexvaitsekhovich/images/blob/main/mq-delay.png" width="350" height="273" alt="MQ-delay"></a>
+<a href="https://github.com/alexvaitsekhovich/rabbitmq-delayed-messaging"><img src="https://github.com/alexvaitsekhovich/images/blob/main/mqdelay.png" width="350" height="273" alt="MQ-delay"></a>
 
 <br><br>
 <hr>
