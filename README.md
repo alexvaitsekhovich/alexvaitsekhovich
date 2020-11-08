@@ -20,6 +20,8 @@ Delayed messaging using dead letter exhange principle and a chain of exchanges w
 
 <br><hr><br>
 
+793 × 490
+
 [Ordering API](https://github.com/alexvaitsekhovich/ordering-ms-starter):
 Ordering microservice, including ordering API, config server, Eureka, failover and gateway service.
 <br>
@@ -28,6 +30,9 @@ Ordering microservice, including ordering API, config server, Eureka, failover a
 <br><br>
 [![pipeline status](https://gitlab.com/alex.vaitsekhovich/order-api/badges/master/pipeline.svg)](https://gitlab.com/alex.vaitsekhovich/order-api//pipelines)
 [![codecov](https://codecov.io/gh/alexvaitsekhovich/order-api/branch/master/graph/badge.svg)](https://codecov.io/gh/alexvaitsekhovich/order-api)
+
+<br>
+<a href="https://github.com/alexvaitsekhovich/ordering-ms-starter"><img src="https://github.com/alexvaitsekhovich/images/blob/main/ordering-ms.png" width="350" height="216" alt="MQ-delay"></a>
 
 <br><hr><br>
 
