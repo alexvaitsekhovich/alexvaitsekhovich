@@ -20,7 +20,7 @@ Delayed messaging using dead letter exhange principle and a chain of exchanges w
 
 <br><hr><br>
 
-[Ordering API](https://github.com/alexvaitsekhovich/ordering-ms-starter):
+[Ordering MS](https://github.com/alexvaitsekhovich/ordering-ms-starter):
 Ordering microservice, including ordering API, config server, Eureka, failover and gateway service.
 <br>
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/java.png" width="20" height="20" alt="Java">
