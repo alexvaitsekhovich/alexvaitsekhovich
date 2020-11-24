@@ -12,8 +12,8 @@ Delayed messaging using dead letter exhange principle and a chain of exchanges w
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/java.png" width="20" height="20" alt="Java">
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/rabbit.png" width="20" height="20" alt="RabbitMQ">
 <br><br>
-[![pipeline status](https://gitlab.com/alex.vaitsekhovich/rabbitmq-delayed-messaging/badges/master/pipeline.svg)](https://gitlab.com/alex.vaitsekhovich/rabbitmq-delayed-messaging/pipelines) 
-[![codecov](https://codecov.io/gh/alexvaitsekhovich/rabbitmq-delayed-messaging/branch/master/graph/badge.svg)](https://codecov.io/gh/alexvaitsekhovich/rabbitmq-delayed-messaging)
+[![pipeline status](https://gitlab.com/alex.vaitsekhovich/delayed-messaging-with-rabbitmq/badges/main/pipeline.svg)](https://gitlab.com/alex.vaitsekhovich/delayed-messaging-with-rabbitmq/pipelines) 
+[![codecov](https://codecov.io/gh/alexvaitsekhovich/delayed-messaging-with-rabbitmq/branch/main/graph/badge.svg)](https://codecov.io/gh/alexvaitsekhovich/delayed-messaging-with-rabbitmq)
 
 <br>
 <a href="https://github.com/alexvaitsekhovich/rabbitmq-delayed-messaging"><img src="https://github.com/alexvaitsekhovich/images/blob/main/mqdelay.png" width="350" height="273" alt="MQ-delay"></a>
