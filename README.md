@@ -6,7 +6,7 @@ Some of my projects:
 
 <br>
 
-[Delayed messaging with RabbitMQ](https://github.com/alexvaitsekhovich/rabbitmq-delayed-messaging):
+[Delayed messaging with RabbitMQ](https://github.com/alexvaitsekhovich/delayed-messaging-with-rabbitmq):
 Delayed messaging using dead letter exhange principle and a chain of exchanges with topics, built on binary number representation. 
 <br>
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/java.png" width="20" height="20" alt="Java">
