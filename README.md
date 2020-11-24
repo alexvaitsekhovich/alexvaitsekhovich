@@ -49,7 +49,7 @@ Application for testing the database results of legacy and refactored code, to e
 [Polyglot](https://github.com/alexvaitsekhovich/polyglot):
 22 programming languages in a single docker image and example code for all languages to test the calculation speed.
 
-<a href="https://github.com/alexvaitsekhovich/polyglot"><img src="https://raw.githubusercontent.com/alexvaitsekhovich/polyglot/master/img/Speed.png" width="352" height="220" alt="Polyglot"></a>
+<a href="https://github.com/alexvaitsekhovich/polyglot"><img src="https://raw.githubusercontent.com/alexvaitsekhovich/polyglot/main/img/Speed.png" width="352" height="220" alt="Polyglot"></a>
 
 
 
