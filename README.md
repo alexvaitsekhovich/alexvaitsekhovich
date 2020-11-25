@@ -55,7 +55,7 @@ Accounting API for managing financial positions, invoices, with user management 
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/spring.png" width="80" height="20" alt="Spring">
 <br><br>
 
-[![pipeline status](https://gitlab.com/alex.vaitsekhovich/accounting-api/badges/master/pipeline.svg)](https://gitlab.com/alex.vaitsekhovich/accounting-api//pipelines) [![codecov](https://codecov.io/gh/alexvaitsekhovich/accounting-api/branch/main/graph/badge.svg)](https://codecov.io/gh/alexvaitsekhovich/accounting-api)
+[![pipeline status](https://gitlab.com/alex.vaitsekhovich/accounting-api/badges/main/pipeline.svg)](https://gitlab.com/alex.vaitsekhovich/accounting-api/pipelines)  [![codecov](https://codecov.io/gh/alexvaitsekhovich/accounting-api/branch/main/graph/badge.svg)](https://codecov.io/gh/alexvaitsekhovich/accounting-api)
 
 <br><hr><br>
 
