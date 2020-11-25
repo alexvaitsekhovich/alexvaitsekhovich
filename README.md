@@ -46,6 +46,23 @@ Application for testing the database results of legacy and refactored code, to e
 
 <br><hr><br>
 
+[Accounting API](https://github.com/alexvaitsekhovich/accounting-api):
+Accounting API for managing financial positions, invoices, with user management and JWT authentication.
+
+# in progress 
+<br>
+<img src="https://github.com/alexvaitsekhovich/images/blob/main/java.png" width="20" height="20" alt="Java">
+<img src="https://github.com/alexvaitsekhovich/images/blob/main/spring.png" width="80" height="20" alt="RabbitMQ">
+<br><br>
+[![pipeline status](https://gitlab.com/alex.vaitsekhovich/accounting-api/badges/main/pipeline.svg)](https://gitlab.com/alex.vaitsekhovich/accounting-api/pipelines)
+[![codecov](https://codecov.io/gh/alexvaitsekhovich/accounting-api/branch/main/graph/badge.svg)](https://codecov.io/gh/alexvaitsekhovich/accounting-api)
+
+<br>
+<a href="https://github.com/alexvaitsekhovich/ordering-ms-starter"><img src="https://github.com/alexvaitsekhovich/images/blob/main/ordering-ms.png" width="350" height="216" alt="MQ-delay"></a>
+
+<br><hr><br>
+
+
 [Polyglot](https://github.com/alexvaitsekhovich/polyglot):
 22 programming languages in a single docker image and example code for all languages to test the calculation speed.
 
