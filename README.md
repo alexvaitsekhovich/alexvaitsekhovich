@@ -24,7 +24,7 @@ Delayed messaging using dead letter exhange principle and a chain of exchanges w
 Ordering microservice, including ordering API, Eureka service discovery, configuration, failover and gateway services.
 <br>
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/java.png" width="20" height="20" alt="Java">
-<img src="https://github.com/alexvaitsekhovich/images/blob/main/spring.png" width="80" height="20" alt="RabbitMQ">
+<img src="https://github.com/alexvaitsekhovich/images/blob/main/spring.png" width="80" height="20" alt="Spring">
 <br><br>
 [![pipeline status](https://gitlab.com/alex.vaitsekhovich/order-api/badges/master/pipeline.svg)](https://gitlab.com/alex.vaitsekhovich/order-api//pipelines)
 [![codecov](https://codecov.io/gh/alexvaitsekhovich/order-api/branch/master/graph/badge.svg)](https://codecov.io/gh/alexvaitsekhovich/order-api)
@@ -49,16 +49,13 @@ Application for testing the database results of legacy and refactored code, to e
 [Accounting API](https://github.com/alexvaitsekhovich/accounting-api):
 Accounting API for managing financial positions, invoices, with user management and JWT authentication.
 
-# in progress 
+*** in progress *** 
 <br>
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/java.png" width="20" height="20" alt="Java">
-<img src="https://github.com/alexvaitsekhovich/images/blob/main/spring.png" width="80" height="20" alt="RabbitMQ">
+<img src="https://github.com/alexvaitsekhovich/images/blob/main/spring.png" width="80" height="20" alt="Spring">
 <br><br>
-[![pipeline status](https://gitlab.com/alex.vaitsekhovich/accounting-api/badges/main/pipeline.svg)](https://gitlab.com/alex.vaitsekhovich/accounting-api/pipelines)
-[![codecov](https://codecov.io/gh/alexvaitsekhovich/accounting-api/branch/main/graph/badge.svg)](https://codecov.io/gh/alexvaitsekhovich/accounting-api)
 
-<br>
-<a href="https://github.com/alexvaitsekhovich/ordering-ms-starter"><img src="https://github.com/alexvaitsekhovich/images/blob/main/ordering-ms.png" width="350" height="216" alt="MQ-delay"></a>
+[![pipeline status](https://gitlab.com/alex.vaitsekhovich/accounting-api/badges/master/pipeline.svg)](https://gitlab.com/alex.vaitsekhovich/accounting-api//pipelines) [![codecov](https://codecov.io/gh/alexvaitsekhovich/accounting-api/branch/main/graph/badge.svg)](https://codecov.io/gh/alexvaitsekhovich/accounting-api)
 
 <br><hr><br>
 
