@@ -55,7 +55,7 @@ Accounting API for managing financial positions, invoices, with user management 
 
 <br>
 
-<img src="https://github.com/alexvaitsekhovich/images/blob/main/accounting-api.png" width="350px" height="346px" alt="Accounting API endpoints">
+<img src="https://github.com/alexvaitsekhovich/images/blob/main/accounting_api.png" width="350px" height="359px" alt="Accounting API endpoints">
 <br><hr><br>
 
 
