@@ -50,7 +50,7 @@ Application for testing the database results of legacy and refactored code, to e
 Accounting API for managing financial positions, invoices, with user management and JWT authentication.
 
 <br>
-<img src="https://github.com/alexvaitsekhovich/images/blob/main/java.png" width="20" height="20" alt="Java">
+<img src="https://github.com/alexvaitsekhovich/images/blob/main/java.png" width="20" height="20" alt="Java"> 
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/spring.png" width="80" height="20" alt="Spring">
 <br><br>
 
