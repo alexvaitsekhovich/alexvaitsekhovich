@@ -49,7 +49,6 @@ Application for testing the database results of legacy and refactored code, to e
 [Accounting API](https://github.com/alexvaitsekhovich/accounting-api):
 Accounting API for managing financial positions, invoices, with user management and JWT authentication.
 
-*** in progress *** 
 <br>
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/java.png" width="20" height="20" alt="Java">
 <img src="https://github.com/alexvaitsekhovich/images/blob/main/spring.png" width="80" height="20" alt="Spring">
@@ -57,6 +56,9 @@ Accounting API for managing financial positions, invoices, with user management 
 
 [![pipeline status](https://gitlab.com/alex.vaitsekhovich/accounting-api/badges/main/pipeline.svg)](https://gitlab.com/alex.vaitsekhovich/accounting-api/pipelines)  [![codecov](https://codecov.io/gh/alexvaitsekhovich/accounting-api/branch/main/graph/badge.svg)](https://codecov.io/gh/alexvaitsekhovich/accounting-api)
 
+<br>
+
+<img src="https://github.com/alexvaitsekhovich/images/blob/main/accounting-api.png" width="350px" height="346px" alt="Accounting API endpoints">
 <br><hr><br>
 
 
